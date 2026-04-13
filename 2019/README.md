@@ -1,11 +1,17 @@
 # 2019
 
+- [2019](#2019)
+- [1000 sqft Flooring](#1000-sqft-flooring)
+    - [Built-In Bench Removal](#built-in-bench-removal)
+
+# 1000 sqft Flooring
+
 ![](media/kitchen.jpeg)
 ![](media/living-room.jpeg)
 
 Before I started a new job, I went on a marathon ripping up the first floor of the home I grew up in. Unfortunately I don't have the greatest before/after pics from then. But all the flooring was replaced with the lighter oak color seen.
 
-## Built-In Bench Removal
+### Built-In Bench Removal
 
 ![](media/entry-room-before.jpeg)
 ![](media/entry-room.jpeg)

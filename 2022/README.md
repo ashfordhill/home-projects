@@ -1,3 +1,10 @@
+# 2022
+
+- [2022](#2022)
+  - [Recliner Barrier](#recliner-barrier)
+
+## Recliner Barrier
+
 In 2022, my husband and I moved into our first home together. When furniture shopping, we decided we really wanted to get a recliner.
 
 Unfortunately my dog Skipper loves to shadow me around and I can be forgetful. 
@@ -6,7 +13,7 @@ Unfortunately my dog Skipper loves to shadow me around and I can be forgetful.
 
 We didn't want him to get injured underneath the recliner leg area in a freak accident. 
 
-So I decided we needed a barrier around the recliner! There didn't seem to be an existing solutions.
+So I decided we needed a barrier around the recliner! There didn't seem to be an existing solution.
 
 [Everblock](https://www.everblocksystems.com/our-products) sells lifesize legos.
 

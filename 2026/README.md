@@ -1,8 +1,8 @@
-# 2026 Projects
+# 2026
 
 ## IKEA Table Split
 
-When my husband and I were at IKEA, we got to the dining table section to pick something out. I had some ideas, but unfortunately my husband fell in love with [this]([moerbylanga](https://www.ikea.com/us/en/p/moerbylanga-table-oak-veneer-brown-stained-50386245/)) god-awful table that was more than what I was hoping to pay for:
+When my husband and I were at IKEA, we went to the dining table section to pick something out. I had some ideas, but unfortunately my husband fell in love with [this]([moerbylanga](https://www.ikea.com/us/en/p/moerbylanga-table-oak-veneer-brown-stained-50386245/)) god-awful table that was more than what I was hoping to pay for:
 
 ![](media/ikea-table-bad.png)
 
@@ -22,7 +22,7 @@ So once my husband finally agreed I was right about the table 3 years later, I c
 
 ### After
 
-I ordered 3 custom height/width legs from [hairpinlegs](https://www.hairpinlegs.com/products/customizable-trapezoidal-narrow-tube-leg-raw-steel), but decided getting a 4th leg would be worth it. 2 tables would be more resuable, moveable and stable.
+I ordered 3 custom height/width legs from [hairpinlegs](https://www.hairpinlegs.com/products/customizable-trapezoidal-narrow-tube-leg-raw-steel), but decided getting a 4th leg would be worth it. 2 tables would be more reusable, moveable and stable.
 
 ![](media/hairpinlegs.png)
 ![](media/ikea-table-split-after.png)

@@ -1,4 +1,4 @@
-# 2025 Projects
+# 2025
 
 - [2025 Projects](#2025-projects)
   - [Umbrella Tree](#umbrella-tree)

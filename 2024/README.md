@@ -1,6 +1,22 @@
-# 2024 Projects
+# 2024
 
-## Garden
+- [2024](#2024)
+  - [Front Yard](#front-yard)
+    - [April](#april)
+    - [May](#may)
+    - [October](#october)
+  - [Basement](#basement)
+    - [Before](#before)
+    - [Damage](#damage)
+    - [New Floor](#new-floor)
+  - [Closet (unfinished)](#closet-unfinished)
+    - [Before](#before-1)
+    - [Deconstructed](#deconstructed)
+    - [Hall Tree Temp Fix](#hall-tree-temp-fix)
+  - [SFF PC Build](#sff-pc-build)
+
+
+## Front Yard
 
 ### April
 
@@ -16,7 +32,7 @@
 
 ### October
 
-I ended up planting some dahlia tubers which is some of the vibrant flowers. These are not perennial in my zone and need to be dug up in the fall in order to come back, but the long blooming time late in the season is worth it!
+I ended up planting some dahlia tubers which produce some of the vibrant flowers. These are not perennial in my zone and need to be dug up in the fall in order to come back, but the long blooming time late in the season is worth it!
 
 ![](media/front-october.png)
 
@@ -60,7 +76,7 @@ Our entry closet was not very functional; the narrow space and old sliding doors
 
 ### Hall Tree Temp Fix
 
-I ended up getting a god-awful-quality hall tree from Wayfair to shove in there. The end goal is to build a custom hall tree inside the area, possible with some wallpaper behind it; after looking at dozens of samples, I didn't end up finding a wallpaper I liked and wasn't generic feeling! So maybe I'll just repaint the area instead.
+I ended up getting a god-awful-quality hall tree from Wayfair to shove in there. The end goal is to build a custom hall tree inside the area, possibly with some wallpaper behind it; after looking at dozens of samples, I didn't end up finding a wallpaper I liked and wasn't generic feeling! So maybe I'll just repaint the area instead.
 
 TBC when I own saws and some tables to work on in my garage.
 

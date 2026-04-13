@@ -1,4 +1,18 @@
 
+# 2020
+
+- [2020](#2020)
+  - [Chicken Coop](#chicken-coop)
+    - [Early Progress](#early-progress)
+    - [Mid Progress](#mid-progress)
+    - [Late Progress](#late-progress)
+    - [Final](#final)
+    - [Hens \& Eggs](#hens--eggs)
+  - [SFF PC Build](#sff-pc-build)
+    - [Parts](#parts)
+    - [Build \& Size](#build--size)
+    - [Enhancements](#enhancements)
+
 
 ## Chicken Coop
 
@@ -31,12 +45,12 @@ I decided to repurpose this into a chicken coop.
 The build and design process was honestly more fun than chickenkeeping!
 
 
-## Hens & Eggs
+### Hens & Eggs
 
 I ended up getting 3 pullets in the fall of 2020: An Ameraucana (blue eggs), White Brahma (brown eggs) and Barred Plymouth Rock (brown eggs).
 
 
-Once they matured I ended up get my first egg (a blue one!), in February 2021!
+Once they matured I ended up getting my first egg (a blue one!), in February 2021!
 
 These hens were rehomed before I moved to the Chicago area in 2022.
 
@@ -47,7 +61,7 @@ These hens were rehomed before I moved to the Chicago area in 2022.
 
 ## SFF PC Build
 
-A friend introduced me to the world of small-form factor (SFF) PCs. These are desktops with a small footprint, generally using **mini-ITX** motherboards  requiring a high end cooling setup and a graphics card that isn't too big for the case. 
+A friend introduced me to the world of small-form factor (SFF) PCs. These are desktops with a small footprint, generally using **mini-ITX** motherboards, requiring a high-end cooling setup and a graphics card that isn't too big for the case. 
 
 ![](media/mobo-form-factors.jpg)
 
@@ -66,10 +80,10 @@ There is [a SFF PC Master List](https://docs.google.com/spreadsheets/d/1AddRvGWJ
 
 ### Enhancements
 
-I bought some 3D-printed brackets designed by someone off Reddit, to be able to install and very slim Noctua fan and improve airflow.
+I bought some 3D-printed brackets designed by someone off Reddit, to be able to install a very slim Noctua fan and improve airflow.
 
-I also purchased some custom cables for the GPU <-> Power, since the ones the GPU came with where really long and hard to stuff into the case.
+I also purchased some custom cables for the GPU <-> Power, since the ones the GPU came with were really long and hard to stuff into the case.
 
 ![](media/pc-guts-after.png)
 
-Overall this PC ended up having a lot of overheating issue, especially when it lived on the second floor. I ended up [building a newer SFF years later](../2024/README.md#sff-pc-build) that has been fantastic.
+Overall this PC ended up having a lot of overheating issues, especially when it lived on the second floor. I ended up [building a newer SFF years later](../2024/README.md#sff-pc-build) that has been fantastic.
