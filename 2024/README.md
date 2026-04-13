@@ -66,3 +66,10 @@ TBC when I own saws and some tables to work on in my garage.
 
 ![](media/closet-hall-tree.png)
 
+## SFF PC Build
+
+My second SFF build ([first one in 2020](../2020/README.md#sff-pc-build)). Uses Fractal Design's [Terra case](https://www.fractal-design.com/products/cases/terra/) and RTX 4070 Ti.
+
+![](media/pc-closed-front.png)
+![](media/pc-open-front.png)
+![](media/pc-open-back.png)
