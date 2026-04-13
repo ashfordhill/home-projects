@@ -47,7 +47,7 @@ These hens were rehomed before I moved to the Chicago area in 2022.
 
 ## SFF PC Build
 
-A friend introduced me to the world of small-form factor (SFF) PCs. These are desktops with a small footprint, generally using **micro-ITX** motherboards  requiring a high end cooling setup and a graphics card that isn't too big for the case. 
+A friend introduced me to the world of small-form factor (SFF) PCs. These are desktops with a small footprint, generally using **mini-ITX** motherboards  requiring a high end cooling setup and a graphics card that isn't too big for the case. 
 
 ![](media/mobo-form-factors.jpg)
 
