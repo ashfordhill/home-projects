@@ -1,6 +1,8 @@
 # Home Projects
 
-A collection of home improvement projects. For yard and gardening projects, see [Gardening](https://github.com/ashfordhill92/gardening).
+A collection of home improvement projects. 
+
+- For yard and gardening projects, see [Gardening](https://github.com/ashfordhill/gardening).
 
 ## By Project
 
@@ -14,6 +16,7 @@ A collection of home improvement projects. For yard and gardening projects, see 
 - [PC Build, SFF (2024)](2024/README.md#sff-pc-build)
 - [Typewriter Restore](2026/README.md#typewriter)
 - [Umbrella Tree Adoption & Haircut](2025/README.md#umbrella-tree)
+
 ## By Year
 
 - [2019](2019/README.md)
